@@ -136,7 +136,7 @@ The Main command used through this exercise is ls
 13.  Name one argument that we passed to the command.
 ----------
 
-
+Desktop/
 
 ==========
 14.  Type:
