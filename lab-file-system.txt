@@ -157,7 +157,10 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+-bash: cd: /unknown_folder: No such file or directory
+V217-M05:volumes edgar.alejandro65$ pwd
+/volumes
+V217-M05:volumes ed
 
 ==========
 15. Type:
