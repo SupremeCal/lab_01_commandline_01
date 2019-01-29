@@ -171,7 +171,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
+/Users/edgar.alejandro65/mtec1002
 
 ==========
 16. Type:
@@ -182,6 +182,7 @@ Copy and paste the output into the space below.
 ----------
 
 
+V217-M05.local
 
 ==========
 17a. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
@@ -210,7 +211,7 @@ lemon
 Use only one command to make all of these new directories.  Write what command you used below:
 ----------
 
-
+mkdir -p pineapple/orange/strawberry/lemon
 
 ==========
 19. Make another directory called aardvark.  
@@ -218,7 +219,7 @@ Use only one command to make all of these new directories.  Write what command y
 Write the command you used to create the directory below:
 ----------
 
-
+mkdir aardvark
 
 ==========
 20. List the files and directories in the current directory using the long format.  
@@ -238,7 +239,7 @@ What is the modified date of the aardvark directory?
 What command did you use?
 ----------
 
-
+mkdir -p foo/bar/baz
 
 ==========
 22. Change your directory so that you're in the inner most directory (baz)
@@ -246,7 +247,7 @@ What command did you use?
 What command did you use?
 ----------
 
-
+cd ~/baz
 
 ==========
 23. Change your directory so that you're two directories up (foo)
@@ -254,36 +255,37 @@ What command did you use?
 What command did you use?
 ----------
 
+cd ../..
 
 ==========
 24. What command is used to delete empty directories?
 ----------
 
-
+rmdir
 
 ==========
 25. What command is used to print out your current working directory?
 ----------
 
-
+cd 
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
 
-
+ls
 
 ==========
 27. What's the shortcut for home directory?
 ----------
 
-
+cd .
 
 ==========
 28. What's a pathname?
 ----------
 
-
+ pathname is basically the list of directories you have gone through 
 
 ==========
 29. What's a directory?
