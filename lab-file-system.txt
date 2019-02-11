@@ -227,7 +227,7 @@ mkdir aardvark
 What is the modified date of the aardvark directory?
 ----------
 
-
+ls -l 
 
 ==========
 21. Make 3 directories nested within each other:
@@ -247,7 +247,7 @@ mkdir -p foo/bar/baz
 What command did you use?
 ----------
 
-cd ~/baz
+cd foo/bar/baz
 
 ==========
 23. Change your directory so that you're two directories up (foo)
@@ -267,19 +267,19 @@ rmdir
 25. What command is used to print out your current working directory?
 ----------
 
-cd 
+pwd
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
 
-ls
+ls -a
 
 ==========
 27. What's the shortcut for home directory?
 ----------
 
-cd .
+~
 
 ==========
 28. What's a pathname?
@@ -291,8 +291,9 @@ cd .
 29. What's a directory?
 ----------
 
-
+The directory is 
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+User/student/downloads
